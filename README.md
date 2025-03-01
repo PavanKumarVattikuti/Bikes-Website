@@ -49,7 +49,7 @@ To view the project locally:
 
 Explore the website to learn about various eBike models, company information, and book a test ride using the registration form.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
 
